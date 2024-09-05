@@ -8,7 +8,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="50px" width="50px"/>
   </a>
   <h2>👋 Hi, everybody!</h2>
-  ![drnick](https://github.com/Lhenrick/assets/7f740f2a-5ffa-4204-a87b-cd18d27dc5bc)
+  ![drnick](https://github.com/Lhenrick/Lhenrick/blob/main/drnick.gif)
   <p>
   My name is Luan Henrique. I'm a programming student in the process of career transition. I'm 24 years old, and I live In São Paulo, Brazil.
   Every day is a new challenge. The more I learn, the more I get stuck, and I realize that something is "impossible" just for a matter of time. 
