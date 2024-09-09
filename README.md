@@ -8,7 +8,7 @@
   
   
   <div align="center">
-    <img src="./drnick.gif"/>
+    <img loading="lazy" src="./drnick.gif"/>
   </div>
   <ul>
     <li><h3>🙋🏽 Me:</h3> My name is Luan Henrique. I'm 24 years old and I'm a programming student in the career transition process.</li>
