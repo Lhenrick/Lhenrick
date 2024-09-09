@@ -36,7 +36,7 @@
 </body>
 <footer>
   <h2>Contact</h2>
-    <a href="https://www.linkedin.com/in/luanhenriquee14/">
+    <a href="https://www.linkedin.com/in/luanhenriquee14/?locale=en_US">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="50px" width="50px"/>
     </a>
 </footer>
