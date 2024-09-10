@@ -8,7 +8,7 @@
   
   
   <div align="center">
-    <img loading="lazy" src="./drnick.gif"/>
+    <img loading="lazy" width="30%" height="30%" src="./drnick.gif"/>
   </div>
   <ul>
     <li><h3>🙋🏽 Me:</h3> My name is Luan Henrique. I'm 24 years old and I'm a programming student in the career transition process.</li>
@@ -18,26 +18,28 @@
   </ul>
 
   <h2>💻 Tools and Technologies</h2>
-  <div display="flex" >
+  <div display="flex">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="100px" width="100px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="100px" width="100px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="100px" width="100px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="100px" width="100px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="100px" width="100px"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="100px" width="100px"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100px" width="100px"/>    
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="100px" width="100px"/>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100px" width="100px"/>
+    
   </div>
   <h2>📚 I'm Learning</h2>
   <div display="flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="100px" width="100px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="100px" width="100px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="100px" width="100px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="100px" width="100px"/>
   </div>
 </body>
 <footer>
-  <h2>Contact</h2>
+  <h2>💬 Contact</h2>
     <a href="https://www.linkedin.com/in/luanhenriquee14/?locale=en_US">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="50px" width="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="100px" width="100px"/>
     </a>
 </footer>
 
