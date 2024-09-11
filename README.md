@@ -47,8 +47,8 @@
    <h2>📊 Stats</h2>
   <div display="flex" align="center">
     <a href="https://github.com/Lhenrick?tab=repositories">
-      <img alt="Profile statistics" loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=Lhenrick&show_icons=true&theme=radical"/>
-      <img alt="Most used languages" loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrick&layout=compact&theme=radical"/>
+      <img alt="Profile statistics" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lhenrick&show_icons=true&theme=radical"/>
+      <img alt="Most used languages" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrick&layout=compact&theme=radical"/>
     </a>
   </div>
 </footer>
