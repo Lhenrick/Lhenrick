@@ -5,18 +5,9 @@
   <h1>👋 Hi, everybody!</h1>
 </header>
 <body>
-  
-  
   <div align="center">
     <img loading="lazy" width="40%" height="40%" src="./drnick.gif"/>
   </div>
-  <ul>
-    <li><h3>🙋🏽 Me:</h3> My name is Luan Henrique. I'm 24 years old and I'm a programming student in the career transition process.</li>
-    <li><h3>🏔️ Obstacles:</h3>Every day is a new challenge. The more I learn, the more I get stuck on a problem. So I realized that something is "impossible" just for a matter of time.</li>
-    <li><h3>🏆 Wins:</h3>The longer I keep trying, what I thought was impossible becomes easy. That's what makes me love programming.</li>
-    <li><h3>🚀 Future:</h3>I'm currently working on becoming a full-stack developer, so I'm improving my React, and backend skills. I'm also learning more about databases.</li>
-  </ul>
-
   <h2>💻 Tools and Technologies</h2>
   <div display="flex">
     <img alt="HTML icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="100em"/>
@@ -25,22 +16,22 @@
     <img alt="JavaScript icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="100em"/>
     <img alt="Git icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="100em"/>
     <img alt="React icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="100em"/>
-     <img  alt="Vite icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="100em"/>
+    <img  alt="Vite icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="100em"/>
     <img alt="Tailwind icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="100em"/>
     <img alt="NodeJS icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100em"/>
+    <img alt="express icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="100em"/>
+    <img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="100em" />
     
   </div>
   <h2>📚 I'm Learning</h2>
   <div display="flex">
-    <img alt="express icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="100em"/>
-    <img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="100em" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="100em" />
+    <img alt="C icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="100em" />
+    <img alt="nextjs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="100em" />
     <img alt="PostgreeSQL icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="100em"/>
     <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="100em"/>
     <img alt="graphql icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="100em" />   
   </div>
-</body>
-<footer>
+  <section>
   <h2>💬 Contact</h2>
     <a href="https://www.linkedin.com/in/luanhenriquee14/?locale=en_US">
       <img alt="linkedin logo"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="100em"/>
@@ -55,7 +46,20 @@
       <img alt="Most used languages" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhenrick&layout=compact&theme=radical"/>
     </a>
   </div>
-</footer>
+</section>
+
+  
+  
+  <ul>
+    <li><h3>🙋🏽 Me:</h3> I'm Luan Henrique, a 24-year-old web developer passionate about solving complex problems and continuously expanding my skill set. With experience in both front-end and back-end technologies, I’ve worked on a variety of projects, including e-commerce development and full-stack applications. My journey into web development has driven me to seek efficient, impactful solutions through code.</li>
+    <li><h3>🏔️ Obstacles:</h3>Every day presents new challenges, and I've learned that what seems "impossible" is often just a matter of time and persistence. Tackling obstacles head-on has taught me that continuous effort transforms once-difficult tasks into second nature. It's this relentless drive that fuels my love for programming..</li>
+    <li><h3>🏆 Wins:</h3>From building a complete e-commerce platform with Shopify to developing social media-like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
+    <li><h3>🚀 Future:</h3>From building a complete e-commerce platform with Shopify to developing social media like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
+  </ul>
+
+  
+  
+</body>
 
 
 
