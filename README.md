@@ -8,6 +8,10 @@
   <div align="center">
     <img loading="lazy" width="40%" height="40%" src="./drnick.gif"/>
   </div>
+  <ul>
+    <li><h3>🙋🏽 Me:</h3> I'm Luan Henrique, a 24-year-old web developer passionate about solving complex problems and continuously expanding my skill set. With experience in both front-end and back-end technologies, I’ve worked on a variety of projects, including e-commerce development and full-stack applications. My journey into web development has driven me to seek efficient, impactful solutions through code.</li>
+    <li><h3>🚀 Future:</h3>From building a complete e-commerce platform with Shopify to developing social media like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
+  </ul>
   <h2>💻 Tools and Technologies</h2>
   <div display="flex">
     <img alt="HTML icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="100em"/>
@@ -50,12 +54,7 @@
 
   
   
-  <ul>
-    <li><h3>🙋🏽 Me:</h3> I'm Luan Henrique, a 24-year-old web developer passionate about solving complex problems and continuously expanding my skill set. With experience in both front-end and back-end technologies, I’ve worked on a variety of projects, including e-commerce development and full-stack applications. My journey into web development has driven me to seek efficient, impactful solutions through code.</li>
-    <li><h3>🏔️ Obstacles:</h3>Every day presents new challenges, and I've learned that what seems "impossible" is often just a matter of time and persistence. Tackling obstacles head-on has taught me that continuous effort transforms once-difficult tasks into second nature. It's this relentless drive that fuels my love for programming..</li>
-    <li><h3>🏆 Wins:</h3>From building a complete e-commerce platform with Shopify to developing social media-like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
-    <li><h3>🚀 Future:</h3>From building a complete e-commerce platform with Shopify to developing social media like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
-  </ul>
+  
 
   
   
