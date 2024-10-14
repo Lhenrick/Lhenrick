@@ -5,36 +5,34 @@
   <h1>👋 Hi, everybody!</h1>
 </header>
 <body>
-  <div align="center">
-    <img loading="lazy" width="40%" height="40%" src="./drnick.gif"/>
-  </div>
+ 
   <ul>
     <li><h3>🙋🏽 Me:</h3> I'm Luan Henrique, a 24-year-old web developer passionate about solving complex problems and continuously expanding my skill set. With experience in both front-end and back-end technologies, I’ve worked on a variety of projects, including e-commerce development and full-stack applications. My journey into web development has driven me to seek efficient, impactful solutions through code.</li>
-    <li><h3>🚀 Future:</h3>From building a complete e-commerce platform with Shopify to developing social media like and newsletter applications using React and Node.js, I've gained hands-on experience delivering full-stack solutions. What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
+    <li><h3>🧠 Minset:</h3> What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
   </ul>
   <h2>💻 Tools and Technologies</h2>
   <div display="flex">
-    <img alt="HTML icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="100em"/>
-    <img alt="CSS icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="100em"/>
-    <img alt="Figma icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="100em"/>
-    <img alt="JavaScript icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="100em"/>
-    <img alt="NodeJS icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="100em"/>
-    <img alt="C icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="100em" />
-    <img alt="React icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="100em"/>
-    <img alt="Git icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="100em"/>
-    <img  alt="Vite icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="100em"/>
-    <img alt="Tailwind icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="100em"/>
-    <img alt="express icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="100em"/>
-    <img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="100em" />
+    <img alt="HTML icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="70em"/>
+    <img alt="CSS icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="70em"/>
+    <img alt="Figma icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="70em"/>
+    <img alt="JavaScript icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="70em"/>
+    <img alt="NodeJS icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="70em"/>
+    <img alt="C icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="70em" />
+    <img alt="React icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="70em"/>
+    <img alt="MongoDB icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="70em" />
+    <img alt="Git icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="70em"/>
+    <img  alt="Vite icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="70em"/>
+    <img alt="Tailwind icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="70em"/>
+    <img alt="express icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="70em"/>
     
   </div>
   <h2>📚 I'm Learning</h2>
   <div display="flex">
-    <img alt="C# icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="100em" />
-    <img alt="nextjs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="100em" />
-    <img alt="PostgreeSQL icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="100em"/>
-    <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="100em"/>
-    <img alt="Angular icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="100em" />
+    <img alt="C# icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="70em" />
+    <img alt="nextjs icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="70em" />
+    <img alt="PostgreeSQL icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="70em"/>
+    <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="70em"/>
+    <img alt="Angular icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="70em" />
   </div>
   <section>
   <h2>💬 Contact</h2>
