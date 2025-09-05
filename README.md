@@ -7,9 +7,6 @@
 <body>
  
   <ul>
-    <li><h3>🙋🏽 Me:</h3> I'm Luan Henrique, a 24-year-old web developer passionate about solving complex problems and continuously expanding my skill set. With experience in both front-end and back-end technologies, I’ve worked on a variety of projects, including e-commerce development and full-stack applications. My journey into web development has driven me to seek efficient, impactful solutions through code.</li>
-    <li><h3>🧠 Minset:</h3> What once seemed unattainable eventually becomes achievable through determination and learning. Each project I complete is a testament to the idea that progress comes with perseverance.</li>
-  </ul>
   <h2>💻 Tools and Technologies</h2>
   <div display="flex">
     <img alt="HTML icon" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="70em"/>
